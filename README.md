@@ -128,3 +128,115 @@ I take pride in seeing projects through from the initial Figma wireframe to succ
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🛍️ Chadito</h3>
+      <p align="center"><b>Status: Live on iOS & Android 🟢</b></p>
+      <p>A robust mobile marketplace specifically tailored to bridge the e-commerce and digital transaction gap in the Chadian market.</p>
+      <ul>
+        <li><b>Tech Stack:</b> React Native, Firebase.</li>
+        <li><b>Impact:</b> Facilitating local commerce with an interface designed for the specific needs of Chadian users.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Ecosystem & Hackathons</h3>
+      <p align="center"><b>Status: Multiple Releases 🟢</b></p>
+      <p>Building for the community through rapid prototyping and specific problem-solving.</p>
+      <ul>
+        <li><b>Kaminuza Hub:</b> Dedicated mobile platform for university students in Rwanda.</li>
+        <li><b>Kenda:</b> Urban mobility mobile app successfully developed during a high-paced hackathon.</li>
+        <li><b>Cheikh Ahmad Al-Nour:</b> Islamic educational mobile app, successfully published on Google Play.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr>
+<br>
+
+## 🎥 Content Creation & Mentorship
+
+*"To teach is to learn twice."*
+
+Beyond writing code, I am building a digital presence to document my journey, share technical insights, and ultimately monetize my content. You can find my short-form technical content, coding tips, and day-in-the-life vlogs across major platforms:
+
+<div align="center">
+  <a href="https://youtube.com/@callme_nour"><img src="https://img.shields.io/badge/YouTube_Shorts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@callme_nour"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.instagram.com/nourrmind"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</div>
+
+<br>
+<hr>
+<br>
+
+## 🧠 Beyond the Keyboard
+
+Building great software requires a clear mind and a strong foundation. Here is what fuels my drive and discipline outside of the IDE:
+
+1. **The Iron Discipline:** I am an avid practitioner of bodybuilding. The consistency required to build muscle perfectly mirrors the discipline needed to master complex codebases. (My fuel: a strict regimen of eggs, rice, potatoes, and beans!).
+2. **Mental Architecture:** I am deeply invested in psychology and self-improvement. Books like *"Se libérer de nos traumatismes"* and *"Vous pouvez changer votre vie"* profoundly influence my mindset and approach to challenges.
+3. **Immersive Worlds:** To decompress, I dive into rich High/Heroic fantasy lore. You'll often find me exploring the universes of *Warcraft*, *The Witcher*, or *The Wheel of Time*.
+4. **Cultural Integration:** Living in Rwanda, I am actively learning **Kinyarwanda** to connect more deeply with the local community and my peers at ULK.
+
+<br>
+<hr>
+<br>
+
+## 🏆 Certifications & GitHub Analytics
+
+<div align="center">
+  <h3>🎓 Certified: Harvard CS50's Introduction to Programming with Python</h3>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nourtd1&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nourtd1&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourtd1&theme=react&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourtd1&layout=compact&theme=react&hide_border=true" width="60%" />
+</div>
+
+<br>
+<hr>
+<br>
+
+### 📊 Impact & Activity
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-light.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</div>
+
+## 📫 Let's Connect & Build Something Great
+
+Whether you want to discuss mobile architecture, content creation strategies, scholarship opportunities in Canada, or just debate the best build in The Witcher, my inbox is always open.
+
+<div align="center">
+  <a href="mailto:nourdevtd@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/annour-mahamat-abdoulaye-a799ba310"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nourtd1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"Technology is not just about code — it's about impact."</i>
+</p>

@@ -24,6 +24,37 @@
 <hr>
 <br>
 
+name: Generate Pac-Man Animation
+
+on:
+  schedule:
+    # S'exécute automatiquement toutes les 24 heures
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # Permet de le lancer manuellement
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ## ⚡ Executive Summary & Current Focus
 
 I am a Software Engineer dedicated to bridging the gap between innovative ideas and production-ready applications. Working remotely as a developer for **ChadNova** (ID: CN-DEV-006), I specialize in the modern mobile and web ecosystem, building solutions that solve real-world problems in Africa and beyond.

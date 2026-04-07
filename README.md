@@ -45,7 +45,7 @@ jobs:
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ nourtd1 }}
+          github_user_name: ${{ github.repository_owner }}
 
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

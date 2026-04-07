@@ -243,6 +243,16 @@ Building great software requires a clear mind and a strong foundation. Here is w
 <hr>
 <br>
 
+### 📊 Impact & Activity
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-light.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</div>
+
 ## 📫 Let's Connect & Build Something Great
 
 Whether you want to discuss mobile architecture, content creation strategies, scholarship opportunities in Canada, or just debate the best build in The Witcher, my inbox is always open.

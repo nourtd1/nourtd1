@@ -115,24 +115,21 @@ Long-form tutorials for francophone African developers: publishing apps to Googl
 ## 📊 Activity
 
 <div align="center">
+  <img src="./metrics.overview.svg" alt="GitHub overview" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./metrics.calendar.svg" alt="Contribution calendar" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./metrics.languages.svg" alt="Most used languages" width="100%" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-light.svg">
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourtd1&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourdevtd@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annour-mahamat-abdoulaye-a799ba310)
-
-*"Technology is not just about code — it's about impact."*
-
 </div>

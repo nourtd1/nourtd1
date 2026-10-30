@@ -96,7 +96,21 @@ Long-form tutorials for francophone African developers: publishing apps to Googl
 
 ## 🏆 Certifications
 
-Harvard **CS50x** (Introduction to Computer Science) · **CS50P** (Python) · **CS50R**
+<div align="center">
+
+[![CS50x](https://img.shields.io/badge/Harvard_CS50x-Introduction_to_Computer_Science-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](LIEN_CERTIFICAT_CS50X)
+[![CS50P](https://img.shields.io/badge/Harvard_CS50P-Programming_with_Python-A51C30?style=for-the-badge&logo=python&logoColor=white)](LIEN_CERTIFICAT_CS50P)
+[![CS50R](https://img.shields.io/badge/Harvard_CS50R-Programming_with_R-A51C30?style=for-the-badge&logo=r&logoColor=white)](LIEN_CERTIFICAT_CS50R)
+
+</div>
+
+| Certificate | Issuer | Verify |
+|---|---|---|
+| **CS50x**: Introduction to Computer Science | Harvard University (CS50) | [View certificate](LIEN_CERTIFICAT_CS50X) |
+| **CS50P**: Introduction to Programming with Python | Harvard University (CS50) | [View certificate](LIEN_CERTIFICAT_CS50P) |
+| **CS50R**: Introduction to Programming with R | Harvard University (CS50) | [View certificate](LIEN_CERTIFICAT_CS50R) |
+
+> CS50x final project: **QuickBill**, an offline-first mobile CRM, now live on the App Store.
 
 ## 📊 Activity
 

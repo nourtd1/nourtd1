@@ -31,7 +31,7 @@ I build production-ready mobile and web apps for African markets: offline-first,
 ## 🔭 Current focus
 
 - 🛠️ Building **Griot**: an AI-powered portfolio platform for African developers
-- 📱 Scaling **Rently (InzuHub)** and maintaining **QuickBill**
+- 📱 Scaling **Pro Rently**, **TauxLive** and **Chadito**; maintaining **QuickBill**
 - 📚 Learning: advanced Next.js patterns, networking & cybersecurity (Kali Linux), Kinyarwanda
 - 🎯 Open to freelance clients worldwide and to funded Master's programs in Software Engineering
 - 💬 Ask me about: React Native performance, strict TypeScript, Supabase RLS, publishing apps to the stores
@@ -66,13 +66,14 @@ I build production-ready mobile and web apps for African markets: offline-first,
 
 > Source code is private. Each project has a public showcase with screenshots and architecture.
 
-| Project | Status | What it is |
-|---|---|---|
-| [**Rently (InzuHub)**](https://github.com/nourtd1/rently-showcase) | 🟢 Live on App Store | Rental marketplace for Kigali & Gisenyi: Google Maps tracking, real-time audio translation, freemium model with MoMo payments. React Native · Expo · Supabase |
-| [**QuickBill**](https://github.com/nourtd1/quickbill-showcase) | 🟢 Live on App Store | Offline-first invoicing & mini-CRM for small businesses and freelancers. SQLite ↔ Supabase sync, AI-assisted invoicing. |
-| [**Chadito**](https://github.com/nourtd1/chadito-showcase) | 🟢 Live on iOS & Android | Classifieds marketplace for Chad: cars, housing, land, phones, jobs, local services. React Native · Firebase |
-| [**Griot**](https://github.com/nourtd1/griot-showcase) | 🟡 In development | AI portfolio platform for African developers. |
-| [**Cheikh Ahmad Al-Nour**](https://github.com/nourtd1/cheikh-ahmad-al-nour-showcase) | 🟢 Live on Google Play | Islamic lectures app with 5,000+ users. |
+| Project | Status | What it is | Get it |
+|---|---|---|---|
+| [**Pro Rently**](https://github.com/nourtd1/rently-showcase) | 🟢 Live on iOS | Rental marketplace for Kigali & Gisenyi, no brokers: Google Maps tracking, real-time audio translation, freemium model with MoMo payments. | [App Store](https://apps.apple.com/vn/app/pro-rently/id6760939926) |
+| [**QuickBill**](https://github.com/nourtd1/quickbill-showcase) | 🟢 Live on iOS | Offline-first invoicing & mini-CRM for small businesses and freelancers. SQLite ↔ Supabase sync, on-device receipt OCR. | [App Store](https://apps.apple.com/vn/app/quickbill-offline-invoices/id6761717499) |
+| [**Chadito**](https://github.com/nourtd1/chadito-showcase) | 🟢 Live on iOS & Android | Classifieds marketplace for Chad with real-time chat, verified sellers, ratings and merchant storefronts. 500+ downloads on Google Play. | [App Store](https://apps.apple.com/vn/app/chadito/id6757854742) · [Google Play](https://play.google.com/store/apps/details?id=com.chadito.app) |
+| [**TauxLive**](https://github.com/nourtd1/tauxlive-showcase) | 🟢 Live on iOS | Offline-first currency converter for Africa and the world: parallel rates and Mobile Money fee comparison. | [App Store](https://apps.apple.com/vn/app/tauxlive/id6805797904) |
+| [**Cheikh Ahmad Al-Nour**](https://github.com/nourtd1/cheikh-ahmad-al-nour-showcase) | 🟢 Live on Android | Lectures app with 6,000+ active users, ad monetization and a formal maintenance agreement. | [Google Play](https://play.google.com/store/apps/details?id=com.nourtd1.cheikhahmadalnour) |
+| [**Griot**](https://github.com/nourtd1/griot-showcase) | 🟡 In development | AI-powered portfolio platform for African developers. | Coming soon |
 
 **Hackathons:** Frontiers GenAI Hackathon Rwanda (AgriScan AI: multilingual crop-disease detection with agronomist verification) · Umurava AI Hackathon (ProofHire: AI talent screening) · Kenda (urban mobility app) · Kaminuza Hub (platform for Rwandan students)
 

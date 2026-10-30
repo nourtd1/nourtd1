@@ -115,21 +115,6 @@ Long-form tutorials for francophone African developers: publishing apps to Googl
 ## 📊 Activity
 
 <div align="center">
-  <img src="./metrics.overview.svg" alt="GitHub overview" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./metrics.calendar.svg" alt="Contribution calendar" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./metrics.languages.svg" alt="Most used languages" width="100%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-light.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/nourtd1/nourtd1/output/pacman-contribution-graph-dark.svg" width="100%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=nourtd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourtd1&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
 </div>
